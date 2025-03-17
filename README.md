@@ -1,7 +1,5 @@
 # Clipboard Typer
 
-![GitHub License](https://img.shields.io/github/license/DoingFedTime/clipboard-typer)
-
 A customizable typing simulator that types out clipboard content with human-like delays.
 
 ![Clipboard Typer Screenshot](https://raw.githubusercontent.com/DoingFedTime/clipboard-typer/main/screenshot.png)
@@ -14,6 +12,10 @@ Clipboard Typer is a Python application that simulates human typing by reading t
 - Creating more natural typing demonstrations for tutorials
 - Automating data entry into applications that don't accept direct pasting
 - Testing input fields with realistic typing patterns
+
+## Changing Settings
+
+![https://github.com/DoingFedTime/PrivacyRedirect/raw/main/example.gif](https://github.com/DoingFedTime/PyTyper/blob/d6018988b5009efc3e3587dd7ba2454e9bcb526b/ExamplePictures/saving_settings.gif)
 
 ## Features
 
