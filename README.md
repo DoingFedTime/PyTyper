@@ -97,22 +97,6 @@ Your settings are saved in `clipboard_typer_settings.json` in the same directory
 3. Some applications may block global hotkeys
 4. Run the application with administrator privileges
 
-### Typing Not Starting
-
-1. Verify you have text in your clipboard
-2. Check if the application shows "Typing in progress..." in the status area
-3. Make sure your cursor is focused in a text input field
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
