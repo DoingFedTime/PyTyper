@@ -2,7 +2,7 @@
 
 A customizable typing simulator that types out clipboard content with human-like delays.
 
-![Clipboard Typer Screenshot](https://raw.githubusercontent.com/DoingFedTime/clipboard-typer/main/screenshot.png)
+![Clipboard Typer Screenshot](https://github.com/DoingFedTime/PyTyper/blob/b22ec99473b00f1c9761553aef92e59100e4bd69/ExamplePictures/changingtheme.gif)
 
 ## Overview
 
