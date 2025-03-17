@@ -39,12 +39,12 @@ Clipboard Typer is a Python application that simulates human typing by reading t
 
 1. Clone the repository:
    ```
-   git clone https://github.com/DoingFedTime/clipboard-typer.git
+   git clone https://github.com/DoingFedTime/PyTyper.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd clipboard-typer
+   cd PyTyper
    ```
 
 3. Install required dependencies:
@@ -54,7 +54,7 @@ Clipboard Typer is a Python application that simulates human typing by reading t
 
 4. Run the application:
    ```
-   python clipboard-typer.py
+   python PyTyper.py
    ```
 
 ## Usage
